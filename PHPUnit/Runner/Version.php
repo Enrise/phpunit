@@ -68,6 +68,7 @@ class PHPUnit_Runner_Version
      */
     public static function id()
     {
+        return 3.4;
         return '@package_version@';
     }
 
